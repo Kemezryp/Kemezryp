@@ -7,3 +7,5 @@ I'm a Polish gamedev wannabe. Currently playing around with making and modifying
 - Unnamed Discord bot (JS)
 - Unnamed Minecraft mod (Java/Kotlin)
 - Unnamed cozy game (Godot)
+## .md LATEX test
+$${\color{red}Red}$$
