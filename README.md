@@ -8,4 +8,4 @@ I'm a Polish gamedev wannabe. Currently playing around with making and modifying
 - Unnamed Minecraft mod (Java/Kotlin)
 - Unnamed cozy game (Godot)
 ## .md LATEX test
-$${\color{red}Red}$$
+${{\color{Goldenrod}\Huge{\textsf{  Hi\ there\ \}}}}\$
